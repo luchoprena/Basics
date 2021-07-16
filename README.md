@@ -11,25 +11,28 @@ Basic git &amp; Laravel instructions page
 - git remote -v (to check fetch & push operations)
 - git pull origin [branch_name] --allow-unrelated-histories
 
-Work in progress...
+#### Work in progress...
 
-First push
+#### First push
 
 - git add .
 - git commit -m "Message"
 - git push --set-upstream origin master
 
-Next pushes
+#### Next pushes
 
 - git add [file]
 - git commit -m "Message"
 - git push
 
-Clone from repo
+
+## Clone from repo
 
 cd /c/projects
 git clone git@github.com:luchoprena/[project_name].git
 
+
+## Publish to github
 
 
 

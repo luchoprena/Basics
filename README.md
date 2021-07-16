@@ -32,6 +32,12 @@ cd /c/projects
 git clone git@github.com:luchoprena/[project_name].git
 
 
+## Local repo
+
+- git init --bare
+- git remote add origin "git@github.com:luchoprena/[project_name].git"
+
+
 ## Publish to github
 
 - [Github Cheat Sheet](./git-cheat-sheet-education.pdf)

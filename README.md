@@ -34,5 +34,6 @@ git clone git@github.com:luchoprena/[project_name].git
 
 ## Publish to github
 
-
+[Github Cheat Sheet] (../luchoprena/Basics/master/git-cheat-sheet-education.pdf)
+[Gitlab Cheat Sheet] (../luchoprena/Basics/master/git-cheat-sheet.pdf)
 

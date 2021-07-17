@@ -1,4 +1,4 @@
-# Basics
+# Basics of GIT
 Basic git &amp; Laravel instructions page
 
 - Login to github.com
@@ -42,4 +42,28 @@ git clone git@github.com:luchoprena/[project_name].git
 
 - [Github Cheat Sheet](./git-cheat-sheet-education.pdf)
 - [Gitlab Cheat Sheet](./git-cheat-sheet.pdf)
+
+
+# Laravel
+
+### Create project with composer
+
+- Goto C:\projects
+- composer create-project laravel/laravel:^7.0 [project_name]
+- cd [project_name]
+
+### Create controllers/models/migrations with artisan
+
+- php artisan make:controller [controller_name]
+- php artisan make:model [model_name]
+- php artisan make:migration [table_name]
+
+### Install packages with composer
+
+- composer require phpmailer/phpmailer (to install PHPMailer)
+
+### Update packages with composer
+
+- composer update
+
 

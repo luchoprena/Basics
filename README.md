@@ -102,5 +102,11 @@ Create subfolders under storage at path [app_root]/storage/app/public/[folder_na
 - npm install react-scripts@latest
 
 
+# Wampserver
+
+### Enable SSL to virtual hosts guide
+
+- [Go to guide](https://www.infyom.com/blog/how-to-enable-localhost-https-ssl-on-wamp-server)
+
 
 

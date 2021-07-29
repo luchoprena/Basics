@@ -29,11 +29,13 @@ Basic git &amp; Laravel instructions page
 #### Branching
 
 Before creating a new branch, pull the changes from upstream. Your master needs to be up to date.
-
+<br>
 - git pull
+<br>
 Create the branch on your local machine and switch in this branch :
-
+<br>
 - git checkout -b [name_of_your_new_branch]
+<br>
 Push the branch on github :
 
 - git push origin [name_of_your_new_branch]

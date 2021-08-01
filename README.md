@@ -1,5 +1,5 @@
 # Basics of GIT
-Basic git &amp; Laravel instructions page
+Basic git / Laravel / ReactJS / Wampserver instructions page
 
 - Login to github.com
 - New repository ([project_name], public/private, gitignore, license, etc). Check main [branch_name]
@@ -142,6 +142,29 @@ Create subfolders under storage at path [app_root]/storage/app/public/[folder_na
 
 
 # React JS
+
+### Create new React JS app
+
+- npx create-react-app [app_name]
+
+### Add React Router
+
+- npm install react-router-dom
+
+### Add bootstrap
+
+- npm install bootstrap
+
+### Add fontawesome
+
+- npm i --save @fortawesome/fontawesome-svg-core
+- npm install --save @fortawesome/free-solid-svg-icons
+- npm install --save @fortawesome/react-fontawesome
+
+### Add libraries to code
+
+- import 'bootstrap/dist/css/bootstrap.css';
+- import '@fortawesome/fontawesome-free';
 
 ### Update packages after cloning repo
 
